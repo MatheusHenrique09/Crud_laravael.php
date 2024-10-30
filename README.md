@@ -1,2 +1,2 @@
-# Crud_laravael-php
+# Crud_laravel-php
  crud de laravel
